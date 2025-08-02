@@ -111,7 +111,32 @@ An autonomous, generative AI agent acts as a continuous security monitor for the
 ## Getting Started
 
 This repository will contain the open-source implementation of the Mem-coin protocol. We are in the early stages of development and welcome contributors who are passionate about building the future of decentralized AI and finance.
+## Project Action Log
 
+### Status Key
+* ✅ **Completed**
+* 🟢 **On Track**
+* 🟡 **At Risk / Due Soon**
+* 🔴 **Overdue / Blocked**
+
+| Status | Task / Action Item | Assigned To | Due Date | Notes |
+|:---:|---|---|---|---|
+| ✅ | Submit Draft RFC for Mem-Vid Protocol | @Rodney | YYYY-MM-DD | Pending. |
+| ✅ | Draft initial whitepaper for Mem-Vid Protocol | @Rodney | 2025-08-2 | First draft complete. |
+| ✅ | Set up GitHub repository and initial README.md | @Rodney | 2025-08-2 | First draft complete. |
+| 🔴 | Set up community Discord server | @CommunityManager | YYYY-MM-DD | Pending. |
+| 🟡 | Design the core architecture Mermaid diagram | @DevTeam | YYYY-MM-DD | Pending. |
+| 🟢 | Create project logo and branding assets | @Designer | YYYY-MM-DD | Pending. |
+| 🟢 | Implement the base Optimistic PoUW module | @LeadDev | YYYY-MM-DD | Pending. |
+| 🟢 | Develop smart contracts for the MPC-HSM Committee | @CryptoTeam | YYYY-MM-DD | Pending. |
+
+---
+
+### How to Use
+
+* **To update status:** Replace the emoji in the `Status` column. Use `✅` for completed items.
+* **To assign tasks:** Use GitHub usernames (e.g., `@username`) to notify team members.
+* **Customize:** You can easily add, remove, or rename columns to fit your project's needs.
 ## References
 
 * **Memvid Library**: The core data object technology for the protocol. <https://github.com/Olow304/memvid>
