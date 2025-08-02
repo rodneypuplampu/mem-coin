@@ -115,4 +115,4 @@ This repository will contain the open-source implementation of the Mem-coin prot
 ## References
 
 * **Memvid Library**: The core data object technology for the protocol. <https://github.com/Olow304/memvid>
-* **Architectural Whitepaper**: The foundational paper detailing the hybrid verification architecture. (Attached to user request)
+* **Architectural Whitepaper**: The foundational paper detailing the hybrid verification architecture. [Mem-Coin Whitepaper](https://github.com/rodneypuplampu/mem-coin/blob/main/docs/Mem-Coin%20Protocol_A_Hybid_Verification_Cryptocurrency_Architeture.pdf)
