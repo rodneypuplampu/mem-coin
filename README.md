@@ -121,7 +121,7 @@ This repository will contain the open-source implementation of the Mem-coin prot
 
 | Status | Task / Action Item | Assigned To | Due Date | Notes |
 |:---:|---|---|---|---|
-| ✅ | Submit Draft RFC for Mem-Vid Protocol | @Rodney | YYYY-MM-DD | Pending. |
+| ✅ | Submit Draft RFC for Mem-coin Protocol | @Rodney | YYYY-MM-DD | Pending. |
 | ✅ | Draft initial whitepaper for Mem-Vid Protocol | @Rodney | 2025-08-2 | First draft complete. |
 | ✅ | Set up GitHub repository and initial README.md | @Rodney | 2025-08-2 | First draft complete. |
 | 🔴 | Set up community Discord server | @CommunityManager | YYYY-MM-DD | Pending. |
