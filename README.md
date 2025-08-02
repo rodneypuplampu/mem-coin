@@ -6,7 +6,7 @@
     <a href="https://github.com/Olow304/memvid/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
     <a href="https://github.com/Olow304/memvid/actions"><img src="https://img.shields.io/github/actions/workflow/status/Olow304/memvid/main.yml?branch=main&style=flat-square" alt="Build Status"></a>
     <a href="https://discord.gg/your-discord-invite"><img src="https://img.shields.io/discord/your-server-id?logo=discord&style=flat-square" alt="Join the community on Discord"></a>
-    <a href="https://theapibook.com/memvid/"><img src="https://photos.app.goo.gl/2hi93v91h7nLjCnFA" alt="Join the Duscussion at The API Book forum"></a>
+    <a href="https://theapibook.com/memvid/"><img src="https://drive.google.com/file/d/1G_kKrmafDCrP59nckvjIP6pklOw7d5T8/view?usp=sharing" alt="Join the Duscussion at The API Book forum"></a>
   </p>
 </div>
 
