@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NqZ3ZpZWF2a21pZ3NkaG15b3U4M2tqZ3ZqZ3ZqZ3ZqZ3ZqZ3Zq/I7S43O2U4AhgtwIDAJ/giphy.gif" alt="Blockchain AI Animation" width="200"/>
-  <h1>Mem-Coin Cryptocurrency Protocol</h1>
+<h1>Mem-Coin Cryptocurrency Protocol</h1>
   <p><strong>A Hybrid Verification Cryptocurrency for the Decentralized AI Ecosystem</strong></p>
 
   <p>
